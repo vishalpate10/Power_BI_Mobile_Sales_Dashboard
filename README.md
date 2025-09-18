@@ -7,7 +7,7 @@ This Power BI dashboard provides a detailed analysis of mobile phone sales acros
 
 ---
 
-<img width="931" height="528" alt="Image" src="https://github.com/user-attachments/assets/c263567f-7f51-4555-8025-33ae7ba51894" />
+<img width="1639" height="921" alt="Image" src="https://github.com/user-attachments/assets/c0c122f5-3620-44c6-b4e0-47a0c7529faf" />
 
 ---
 
